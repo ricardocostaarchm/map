@@ -1320,7 +1320,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom0"
+                         "value":"MeetingRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
