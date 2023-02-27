@@ -1810,9 +1810,24 @@
                  "name":"areaTest",
                  "properties":[
                         {
+                         "name":"URL",
+                         "type":"string",
+                         "value":"https:\/\/makes.ai"
+                        }, 
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"url",
                          "type":"string",
-                         "value":"makes.ai"
+                         "value":"https:\/\/makes.ai"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
                         }],
                  "rotation":0,
                  "visible":true,
