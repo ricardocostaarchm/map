@@ -1804,7 +1804,7 @@
                  "y":642
                 }, 
                 {
-                 "class":"area",
+                 "class":"",
                  "height":96,
                  "id":34,
                  "name":"area0Popup",
@@ -1837,7 +1837,7 @@
                 }, 
                 {
                  "class":"area",
-                 "height":96,
+                 "height":104,
                  "id":35,
                  "name":"area0",
                  "properties":[
@@ -1863,9 +1863,9 @@
                         }],
                  "rotation":0,
                  "visible":true,
-                 "width":116,
-                 "x":1070,
-                 "y":868
+                 "width":132,
+                 "x":1054,
+                 "y":860
                 }],
          "opacity":1,
          "properties":[
