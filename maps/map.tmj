@@ -1807,7 +1807,7 @@
                  "class":"area",
                  "height":96,
                  "id":34,
-                 "name":"areaTest",
+                 "name":"area0Popup",
                  "properties":[
                         {
                          "name":"URL",
@@ -1832,8 +1832,40 @@
                  "rotation":0,
                  "visible":true,
                  "width":116,
-                 "x":1057.33333333333,
-                 "y":870.666666666667
+                 "x":1186.66666666667,
+                 "y":798.666666666667
+                }, 
+                {
+                 "class":"area",
+                 "height":96,
+                 "id":35,
+                 "name":"area0",
+                 "properties":[
+                        {
+                         "name":"URL",
+                         "type":"string",
+                         "value":"https:\/\/makes.ai"
+                        }, 
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/makes.ai"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":116,
+                 "x":1070,
+                 "y":868
                 }],
          "opacity":1,
          "properties":[
@@ -1842,6 +1874,17 @@
                  "type":"string",
                  "value":"makes.ai"
                 }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":61,
+         "name":"Object Layer 2",
+         "objects":[],
+         "opacity":1,
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -2065,8 +2108,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":61,
- "nextobjectid":35,
+ "nextlayerid":62,
+ "nextobjectid":36,
  "orientation":"orthogonal",
  "properties":[
         {
